@@ -14,5 +14,6 @@
 	"author": "Rodrigo Santa Eulalia",
 	"description": "This sample project is part of the course of microservices api of FreeCodecamp",
 	"keywords": ["api", "microservices", "freecodecamp"],
-	"license": "free use"
+	"license": "free use",
+	"version": "0.1.0"
 }
